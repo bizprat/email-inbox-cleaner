@@ -28,7 +28,7 @@ An AI-powered email organization tool built with NestJS that helps clean and org
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd mail-cleaner
+cd email-inbox-cleaner
 ```
 
 2. Install dependencies:
